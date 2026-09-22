@@ -1,0 +1,12 @@
+# PlaceholderAPI for Minestom
+# No placeholders are provided with this library by default.
+check_updates: true
+cloud_enabled: false
+cloud_sorting: "name"
+boolean:
+  'true': 'yes'
+  'false': 'no'
+date_format: MM/dd/yy HH:mm:ss
+detect_malicious_expansions: true
+use_adventure_provided_replacer: false
+debug: false
